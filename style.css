@@ -1,0 +1,32 @@
+.wrapper{
+    height: 90vh;
+    width: 95vw;
+    display: block;
+}
+
+#monsterparts{
+    background-color: antiquewhite;
+    width: auto;
+    height: 100px;
+    border: 1px solid black;
+
+
+    display: flex;
+    align-items: center;
+    left: 10px;
+    top: 10px;
+}
+
+#monsters{
+    background-color: grey;
+    margin-top: 200px;
+    overflow-wrap: normal;
+}
+
+
+#parent{
+    width: 200px;
+    height: 200px;
+    margin-top: 90px;
+    border: 1px solid blue;
+}
